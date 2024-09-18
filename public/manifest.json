@@ -1,0 +1,22 @@
+{
+    "name": "Pokemon Api Evolution ",
+    "short_name": "PokemonApi",
+    "description": "A Pokemon evolution viewer app",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#B6D936",
+    "theme_color": "#3f51b5",
+    "icons": [
+      {
+        "src": "descarga.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "824565.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
+  
